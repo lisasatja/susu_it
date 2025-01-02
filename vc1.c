@@ -12,7 +12,7 @@ int main() {
 
     double distance = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 
-    printf("The distance between the two points is: %.2f\n", distance);
+    printf(Distance (x0, y0) and (x1, y1):);
 
     return 0;
 }
