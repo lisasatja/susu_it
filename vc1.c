@@ -3,7 +3,7 @@
 
 int main() {
 
-    // Calculation algorithm
+    // Calculation algorithm b
     int x1, y1, x2, y2;
 
     printf("Enter the coordinates of the first point (x1, y1): ");
