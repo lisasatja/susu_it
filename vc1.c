@@ -2,6 +2,8 @@
 #include <math.h>
 
 int main() {
+
+    // Calculation algorithm
     int x1, y1, x2, y2;
 
     printf("Enter the coordinates of the first point (x1, y1): ");
